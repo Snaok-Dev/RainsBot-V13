@@ -17,12 +17,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/COCO150/RainsBot.git"
+        "url": "git+https://github.com/Snaok-Dev/RainsBot-V13"
     },
     "author": "COCO150#0001",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/COCO150/RainsBot/issues"
+        "url": "https://github.com/Snaok-Dev/RainsBot-V13"
     },
-    "homepage": "https://github.com/COCO150/RainsBot#readme"
+    "homepage": "https://github.com/Snaok-Dev/RainsBot-V13#readme"
 }
